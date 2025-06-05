@@ -1,0 +1,5 @@
+# .gitignore
+venvfastapi/
+__pycache__/
+*.pyc
+.env
